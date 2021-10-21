@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:id="@+id/navigation_college_anthem"
+    android:title="College Anthem"
+       android:icon="@drawable/anthem"/>
+
+
+
+    <item android:id="@+id/navigation_website"
+        android:title="Website"
+        android:icon="@drawable/worlwide"/>
+
+
+    <item android:id="@+id/navigation_share"
+        android:icon="@drawable/share"
+        android:title="Share"/>
+
+
+
+</menu>
